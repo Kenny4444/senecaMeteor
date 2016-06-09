@@ -5,8 +5,9 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0",
+    "meteor-node-stubs": "^0.2.3",
     "seneca": "^2.1.0",
+    "socket.io": "^1.4.6",
     "socket.io-client": "^1.4.6"
   },
   "description": "The Meteor Tutorial app.",
